@@ -1,0 +1,89 @@
+2022-03-11 17:27:08.206 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:27:30.298 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:27:35.147 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:28:24.206 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:28:29.259 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:30:01.946 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:30:07.037 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:30:24.445 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:30:29.397 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:31:57.276 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:32:02.352 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:34:52.800 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:34:57.937 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-11 17:35:54.379 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:35:59.093 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-11 17:37:48.210 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:37:53.356 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:44:41.388 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:45:28.170 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:45:33.583 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:47:03.809 | INFO     | __main__:<module>:251 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:47:08.870 | INFO     | __main__:<module>:266 - epoch: 0
+2022-03-11 17:50:48.792 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:50:53.772 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-11 17:51:14.284 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:51:19.731 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-11 17:54:22.522 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:54:27.703 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-11 17:55:18.883 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:55:25.417 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-11 17:55:50.415 | INFO     | __main__:<module>:252 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-11 17:55:55.069 | INFO     | __main__:<module>:267 - epoch: 0
+2022-03-12 18:56:16.855 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 18:56:46.073 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 18:57:26.336 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 18:57:57.022 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 18:59:58.296 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:00:23.084 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:01:51.091 | INFO     | __main__:<module>:273 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:18:13.464 | INFO     | __main__:<module>:276 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:18:37.791 | INFO     | __main__:<module>:276 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:21:23.691 | INFO     | __main__:<module>:278 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:24:49.764 | INFO     | __main__:<module>:278 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:25:36.598 | INFO     | __main__:<module>:279 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:26:07.141 | INFO     | __main__:<module>:279 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:27:17.173 | INFO     | __main__:<module>:279 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:29:19.839 | INFO     | __main__:<module>:280 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:29:36.922 | INFO     | __main__:<module>:280 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:30:02.554 | INFO     | __main__:<module>:280 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 19:47:15.981 | INFO     | __main__:<module>:304 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 20:06:05.244 | INFO     | __main__:<module>:308 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 21:54:16.674 | INFO     | __main__:<module>:308 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 21:57:13.998 | INFO     | __main__:<module>:309 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 21:57:50.746 | INFO     | __main__:<module>:310 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 21:59:31.202 | INFO     | __main__:<module>:310 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:00:17.384 | INFO     | __main__:<module>:310 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:00:46.714 | INFO     | __main__:<module>:310 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:03:13.507 | INFO     | __main__:<module>:311 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:04:08.912 | INFO     | __main__:<module>:313 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:04:36.627 | INFO     | __main__:<module>:313 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:07:34.651 | INFO     | __main__:<module>:313 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:09:43.793 | INFO     | __main__:<module>:313 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:17:55.597 | INFO     | __main__:<module>:313 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:19:50.979 | INFO     | __main__:<module>:313 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 22:20:37.376 | INFO     | __main__:<module>:314 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 23:03:16.941 | INFO     | __main__:<module>:312 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 23:03:38.710 | INFO     | __main__:<module>:312 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 23:03:57.881 | INFO     | __main__:<module>:312 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-12 23:42:46.341 | INFO     | __main__:add_embedding_data:255 - vec numbers: 1001500
+2022-03-14 17:07:54.591 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:08:46.679 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:10:08.558 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:10:51.981 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:11:53.494 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:15:26.805 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:18:03.759 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:32:56.784 | INFO     | __main__:<module>:351 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:38:16.017 | INFO     | __main__:<module>:356 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:38:51.510 | INFO     | __main__:<module>:356 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-14 17:43:56.898 | INFO     | __main__:<module>:356 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-15 18:49:07.059 | INFO     | __main__:<module>:247 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext
+2022-03-15 18:50:40.025 | INFO     | __main__:<module>:247 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext
+2022-03-15 18:51:39.078 | INFO     | __main__:<module>:247 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext
+2022-03-15 18:56:27.811 | INFO     | __main__:<module>:247 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext
+2022-03-15 18:57:56.995 | INFO     | __main__:<module>:247 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext
+2022-03-16 09:43:02.619 | INFO     | __main__:<module>:247 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext
+2022-03-16 11:43:35.761 | INFO     | __main__:<module>:359 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-16 19:02:46.039 | INFO     | __main__:<module>:358 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+2022-03-16 20:04:29.469 | INFO     | __main__:<module>:250 - device: cuda, pooling: first-last-avg, model path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext

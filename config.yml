@@ -1,0 +1,17 @@
+data:
+    data_base_path: /home/chezhonghao/projects/competition/ranking/data/
+    source_data_dir: source/
+    #for train unsupervised simcse with only corpus.tsv  这么做的目的是为了寻找hard negative example
+    unsup_corpus_dir: unsup_corpus_dir/
+    format: format/
+    final4train: final4train/
+    result: result/
+model:
+    model_path:
+        model_saved_base_path: /home/chezhonghao/projects/competition/ranking/model_saved/
+        hugging_face_roberta_path: /home/chezhonghao/projects/competition/ranking/pretrain_model/unsup_roberta_base/simcse-chinese-roberta-wwm-ext/
+        unsup_corpus_model_dir: find_negative_model/
+        embedding_model_dir: embedding_model/
+    model_config:
+        #这个是包括[cls]和[sep]的长度
+        max_position_size: 65

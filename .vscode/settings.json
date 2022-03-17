@@ -1,0 +1,6 @@
+{
+    "python.languageServer": "Jedi",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+}
